@@ -1,0 +1,12 @@
+2022.09.19 09:01:23 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\ucsc_files\2nd Year\2_first sem\SCS-2204_Functional Programmming\Tutorials-SCS 2204\ScalaTutorial2\Scala_Tutorial_08\.metals\lsp.trace.json or C:\Users\ASUS\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.09.19 09:01:24 INFO  logging to file D:\ucsc_files\2nd Year\2_first sem\SCS-2204_Functional Programmming\Tutorials-SCS 2204\ScalaTutorial2\Scala_Tutorial_08\.metals\metals.log
+2022.09.19 09:01:24 INFO  Started: Metals version 0.11.8 in workspace 'D:\ucsc_files\2nd Year\2_first sem\SCS-2204_Functional Programmming\Tutorials-SCS 2204\ScalaTutorial2\Scala_Tutorial_08' for client Visual Studio Code 1.71.2.
+2022.09.19 09:01:24 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.09.19 09:01:25 INFO  time: initialize in 1.13s
+2022.09.19 09:01:27 WARN  Build server is not auto-connectable.
+2022.09.19 09:01:27 WARN  no build tool detected in workspace 'D:\ucsc_files\2nd Year\2_first sem\SCS-2204_Functional Programmming\Tutorials-SCS 2204\ScalaTutorial2\Scala_Tutorial_08'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.09.19 09:01:27 WARN  no build target for: D:\ucsc_files\2nd Year\2_first sem\SCS-2204_Functional Programmming\Tutorials-SCS 2204\ScalaTutorial2\Scala_Tutorial_08\point.scala
+Sep 19, 2022 9:01:30 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2022.09.19 09:01:33 INFO  no build target found for D:\ucsc_files\2nd Year\2_first sem\SCS-2204_Functional Programmming\Tutorials-SCS 2204\ScalaTutorial2\Scala_Tutorial_08\point.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.09.19 09:01:35 INFO  time: code lens generation in 7.72s
